@@ -1,4 +1,15 @@
 @charset "utf-8";
+
+.Warning {
+	background-color: #ff7575;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: normal;
+	font-variant: normal;
+	text-align: center;
+	font-size: x-large;
+	margin: 10%;
+}
+
 .Title {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 	font-style: normal;
