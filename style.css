@@ -10,7 +10,7 @@
 	margin: 10%;
 }
 
-.Title {
+.HeaderTitle {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 	font-style: normal;
 	font-variant: normal;
@@ -62,4 +62,3 @@
 	width: 25%;
 
 }
-
