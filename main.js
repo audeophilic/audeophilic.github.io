@@ -25,3 +25,7 @@ function pulseInternal(){
         document.body.style.backgroundColor = "red";
     else document.body.style.backgroundColor = "white";
 }
+
+function redirect(page){
+    window.location.href = `${ page }.html`;
+}

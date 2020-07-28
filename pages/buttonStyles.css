@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+#GalleryButton {
+	float: right;
+	margin-right: 20%;
+	width: 25%;
+}
+#HomeButton {
+	float: left;
+	margin-left: 20%;
+	width: 25%;
+}
+#ContactButton {
+	float: right;
+	margin-right: 20%;
+	width: 25%;
+}

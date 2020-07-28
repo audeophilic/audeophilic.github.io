@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+		<meta charset="utf-8">
+		<title>audeophilic - gallery</title>
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<link href="buttonStyles.css" rel="stylesheet" type="text/css">
+
+</head>
+	<body>
+		<h1 class = "HeaderTitle"  onCLick = "pulse()">Gallery</h1>
+        
+        <div class = "HeaderButton" id = "HomeButton" onMouseOver = "mouseOverAction('HomeButton')"
+		onMouseOut = "mouseOutAction('HomeButton')"  onClick = "redirect('../index')">
+			home</div>
+        
+        <div class = "HeaderButton" id = "ContactButton" onMouseOver = "mouseOverAction('ContactButton')"
+		onMouseOut = "mouseOutAction('ContactButton')"  onClick = "redirect('contact')">
+            contact</div>
+            
+        <script src = "../main.js"></script>
+		<script src = "gallery.js"></script>
+    </body>
+</html>
